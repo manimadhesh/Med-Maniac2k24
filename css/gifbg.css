@@ -1,0 +1,6 @@
+.background {
+  background-image: url("../images/gif3.avif");
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
